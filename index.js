@@ -1,0 +1,1 @@
+module.exports = (value) => Math.random() < 0.5
